@@ -1,0 +1,2 @@
+instalar java se 13
+instalar apache netbeans
