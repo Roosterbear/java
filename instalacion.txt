@@ -1,2 +1,11 @@
 instalar java se 13
 instalar apache netbeans
+
+--hacer nuevo proyecto
+java with maven
+java application
+Download and activate
+
+com.roosterbear
+version 1.0
+
