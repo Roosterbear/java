@@ -9,3 +9,8 @@ Download and activate
 com.roosterbear
 version 1.0
 
+--debuguear
+oprimir el numero de linea donde queremos que se detenga el programa
+oprimir debug
+oprimir step over (F8) para ir paso a paso
+
