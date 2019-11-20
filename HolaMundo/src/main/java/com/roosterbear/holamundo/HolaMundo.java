@@ -5,8 +5,6 @@
  */
 package com.roosterbear.holamundo;
 
-
-
 public class HolaMundo {
 
     public static void main(String args[]) {
@@ -14,6 +12,8 @@ public class HolaMundo {
             System.out.println("Numero: "+i);
         }
         
-        
+        // Break - Rompe el ciclo
+        // Continue - Continua la siguiente iteración, 
+        //              saltando las siguientes líneas
     }
 }

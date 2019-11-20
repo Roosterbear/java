@@ -5,6 +5,8 @@ public class HolaMundo {
             System.out.println("Numero: "+i);
         }
         
-        
+      	// Break - Rompe el ciclo
+        // Continue - Continua la siguiente iteración, 
+        //              saltando las siguientes líneas  
     }
 }
