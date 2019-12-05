@@ -8,9 +8,13 @@ package com.roosterbear.holamundo;
 
 public class Perro {
 
-    String nombre = "Firulais";
+    public String nombre;
+
+    public Perro() {
+        this.nombre = "Firulais";
+    }
     
-    public void decirNombre(){
-        System.out.println("this.nombre = " + this.nombre);
+    public String decirNombre(){
+        return this.nombre;
     }
 }
