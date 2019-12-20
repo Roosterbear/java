@@ -8,8 +8,8 @@ package com.roosterbear.holamundo;
 public class HolaMundo {
     
     public static void main(String args[]) {
-        Rottweiler r = new Rottweiler();
-        System.out.println(r);
+        Perro p = new Perro("Andres");
+        System.out.println(p);
 
     }
 
