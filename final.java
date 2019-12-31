@@ -14,7 +14,7 @@ public class Persona {
  final class Ultimo{
      Boolean imprime(){
          /*
-         // No podemos cambiarle el valor a un final
+         // No podemos cambiarle el valor a un atributo final
          EjemploFinal.noMeCambies = true;
          
          */
