@@ -26,7 +26,7 @@ class Gremlin{
 
     @Override
     public String toString() {
-        return ""+Gremlin.contador;
+        return "Creando el gremlin No. "+Gremlin.contador;
     }
     
     
